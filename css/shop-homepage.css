@@ -1,0 +1,16 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.logo-image{
+  width: 130px;
+  height: 30px;
+  border-radius: 10%;
+  overflow: hidden;
+  margin-top: -6px;
+}
